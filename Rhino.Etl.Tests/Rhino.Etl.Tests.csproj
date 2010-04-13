@@ -155,6 +155,7 @@
     <Compile Include="Joins\JoinInProcessFixture.cs" />
     <Compile Include="Joins\LeftJoinUsersToPeopleByEmail.cs" />
     <Compile Include="Joins\RightJoinUsersToPeopleByEmail.cs" />
+    <Compile Include="Joins\StreamingMergeJoinFixture.cs" />
     <Compile Include="Joins\TrivialUsersToPeopleJoinProcess.cs" />
     <Compile Include="LoadTest\AccumulateResults.cs" />
     <Compile Include="LoadTest\BatchUpdateUserNames.cs" />
