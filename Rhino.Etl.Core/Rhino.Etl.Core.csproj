@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.30729</ProductVersion>
+    <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{DC42946E-5972-411C-A061-F2932E49C31F}</ProjectGuid>
     <OutputType>Library</OutputType>
@@ -84,6 +84,7 @@
     <Compile Include="Operations\BranchingOperation.cs" />
     <Compile Include="Operations\JoinType.cs" />
     <Compile Include="Operations\NestedLoopsJoinOperation.cs" />
+    <Compile Include="Operations\StreamingAggregationOperation.cs" />
     <Compile Include="Pipelines\AbstractPipelineExecuter.cs" />
     <Compile Include="ConventionOperations\ConventionInputCommandOperation.cs" />
     <Compile Include="ConventionOperations\ConventionOutputCommandOperation.cs" />
