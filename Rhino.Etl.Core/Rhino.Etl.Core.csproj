@@ -57,7 +57,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\SharedLibs\Boo.Lang.dll</HintPath>
     </Reference>
-    <Reference Include="FileHelpers, Version=2.2.0.0, Culture=neutral, PublicKeyToken=3e0c08d59cc3d657, processorArchitecture=MSIL">
+    <Reference Include="FileHelpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=3e0c08d59cc3d657, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\SharedLibs\FileHelpers.dll</HintPath>
     </Reference>
